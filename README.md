@@ -41,3 +41,19 @@
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>  
     </a> 
 </p>
+
+### 🚀 Projects & Contributions
+
+Here are some of the cool projects I’ve worked on. Feel free to check them out!
+
+#### 1. **Machine Learning Projects**
+- **[Project Name 1](#)**: A machine learning model built to predict XYZ using algorithms like Random Forest, XGBoost, and SVM.
+- **[Project Name 2](#)**: Deep learning project using TensorFlow/Keras for image classification on the CIFAR-10 dataset.
+- **[Project Name 3](#)**: NLP-based chatbot using Transformers for understanding and generating conversations.
+
+#### 2. **Android Development Projects**
+- **[Project Name 1](#)**: An Android app built with Kotlin that allows users to track their fitness goals.
+- **[Project Name 2](#)**: A weather forecasting app built using Java, Retrofit, and integrated with a real-time weather API.
+- **[Project Name 3](#)**: A note-taking app that uses Firebase for real-time syncing and offline capabilities.
+
+---
