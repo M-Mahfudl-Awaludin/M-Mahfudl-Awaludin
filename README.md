@@ -89,10 +89,10 @@
 
 Here are some of the cool projects I’ve worked on. Feel free to check them out!
 
-#### 1. **Machine Learning Projects**
-- **[Project Name 1](#)**: A machine learning model built to predict XYZ using algorithms like Random Forest, XGBoost, and SVM.
-- **[Project Name 2](#)**: Deep learning project using TensorFlow/Keras for image classification on the CIFAR-10 dataset.
-- **[Project Name 3](#)**: NLP-based chatbot using Transformers for understanding and generating conversations.
+#### 1. **Bangkit Project**
+- **[Bangkit Batch 1 2024 - Mobile Development](https://github.com/M-Mahfudl-Awaludin/Bangkit-Batch1-2024-Mobile-Development-Android-)**: A machine learning model built to predict XYZ using algorithms like Random Forest, XGBoost, and SVM.
+- **[Bangkit Batch 2 2024 - Machine Learning](https://github.com/M-Mahfudl-Awaludin/Bangkit-Batch-2-2024-Machine-Learning-Android)**: Deep learning project using TensorFlow/Keras for image classification on the CIFAR-10 dataset.
+
 
 #### 2. **Android Development Projects**
 - **[Project Name 1](#)**: An Android app built with Kotlin that allows users to track their fitness goals.
