@@ -99,4 +99,12 @@ Here are some of the cool projects I’ve worked on. Feel free to check them out
 - **[Project Name 2](#)**: A weather forecasting app built using Java, Retrofit, and integrated with a real-time weather API.
 - **[Project Name 3](#)**: A note-taking app that uses Firebase for real-time syncing and offline capabilities.
 
+#### 📂 **Portfolio Capstone Projects**
+| Year | Program | Project Name | Description | Tech Stack |
+|------|---------|--------------|-------------|------------|
+| 2025 | BEKUP CREATE ||  |  |
+| 2025 | Laskar AI | [KeluhCerdas](#) |  | TensorFlow, OpenCV, Flutter |
+| 2024 | Bangkit (MD) | [Paradisata](#) |  | Kotlin, Firebase, GCP |
+| 2024 | Bangkit (ML) | [MetaBook ID](#) |  | TensorFlow, OpenCV |
+
 ---
