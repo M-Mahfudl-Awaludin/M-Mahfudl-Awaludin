@@ -94,10 +94,14 @@ Here are some of the cool projects I’ve worked on. Feel free to check them out
 - **[Bangkit Batch 2 2024 - Machine Learning](https://github.com/M-Mahfudl-Awaludin/Bangkit-Batch-2-2024-Machine-Learning-Android)**: Deep learning project using TensorFlow/Keras for image classification on the CIFAR-10 dataset.
 
 
-#### 2. **Android Development Projects**
+#### 2. **Laskar AI 2025 - Artifical Intelligence**
+- **[Laskar AI](https://github.com/M-Mahfudl-Awaludin/Laskar-AI-2025---Artifical-Intelligence)**: An Android app built with Kotlin that allows users to track their fitness goals.
+
+#### 3. **BEKUP CREATE 2025 - MultiPlatform APP**
+- **[BEKUP CREATE](https://github.com/M-Mahfudl-Awaludin/BEKUP-CREATE-2025/tree/main)**: An Android app built with Kotlin that allows users to track their fitness goals.
+
+#### 2. **Other Repositories Project**
 - **[Project Name 1](#)**: An Android app built with Kotlin that allows users to track their fitness goals.
-- **[Project Name 2](#)**: A weather forecasting app built using Java, Retrofit, and integrated with a real-time weather API.
-- **[Project Name 3](#)**: A note-taking app that uses Firebase for real-time syncing and offline capabilities.
 
 #### 📂 **Portfolio Capstone Projects**
 | Year | Program | Project Name | Description | Tech Stack |
