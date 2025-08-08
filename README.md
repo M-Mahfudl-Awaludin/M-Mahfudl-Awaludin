@@ -16,31 +16,74 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  
-    <a href="https://www.w3.org/html/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></code> 
-    </a>  
-    <a href="https://www.w3schools.com/css/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></code>  
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="javascript" width="40" height="40"/></code>  
-    </a>
-    <a href="https://getbootstrap.com" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/></code>  
-    </a> 
-    <a href="https://www.cprogramming.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </code> 
-    </a> 
-    <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></code>  
-    </a>
-    <a href="https://git-scm.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/></code>  
-    </a> 
-    <a href="https://www.linux.org/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code>  
-    </a> 
+
+<!-- Front-End -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/></code>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/></code>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></code>
+</a>
+<a href="https://reactjs.org/" target="_blank">
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></code>
+</a>
+
+<!-- Back-End -->
+<a href="https://nodejs.org/" target="_blank">
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/></code>
+</a>
+<a href="https://expressjs.com/" target="_blank">
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/></code>
+</a>
+<a href="https://www.python.org/" target="_blank">
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></code>
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></code>
+</a>
+<a href="https://www.mongodb.com/" target="_blank">
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/></code>
+</a>
+
+<!-- Mobile / Multi-Platform -->
+<a href="https://flutter.dev/" target="_blank">
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/></code>
+</a>
+<a href="https://dart.dev/" target="_blank">
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/></code>
+</a>
+<a href="https://developer.android.com/" target="_blank">
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="Android" width="40" height="40"/></code>
+</a>
+<a href="https://kotlinlang.org/" target="_blank">
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/></code>
+</a>
+
+<!-- Machine Learning / AI -->
+<a href="https://pytorch.org/" target="_blank">
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/></code>
+</a>
+<a href="https://www.tensorflow.org/" target="_blank">
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/></code>
+</a>
+
+
+<!-- Tools -->
+<a href="https://git-scm.com/" target="_blank">
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></code>
+</a>
+<a href="https://github.com/" target="_blank">
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></code>
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+    <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></code>
+</a>
+
 </p>
+
 
 ### 🚀 Projects & Contributions
 
